@@ -3,10 +3,10 @@
 #wall .tag-1 {
   display: none;
 }
-/*
+
 div#wall #tag-2 {
   display: none;
-}*/
+}
 
 /*#wall #tag-3 {
   display: none;
@@ -19,11 +19,13 @@ div#wall #tag-2 {
 /*#wall .parent #tag-5.slick {
   display: none;
 }*/
+
 /*
 #wall .parent #tag-6 {
   display: none;
 }
+*/
 
-#wall div.parent div div#tag-7.slick {
+#wall parent #tag-7.slick {
   display: none;
-}*/
+}
