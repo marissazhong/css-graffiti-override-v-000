@@ -8,9 +8,9 @@ div#wall #tag-2 {
   display: none;
 }
 
-/*div#wall div#tag-3.slick {
+body div#wall div#tag-3.slick {
   display: none;
-}*/
+}
 
 div#wall .parent #tag-4 {
   display: none;
@@ -20,7 +20,6 @@ div#wall .parent div#tag-5.slick {
   display: none;
 }
 
-/*div#wall div.parent div:last-child div#tag-6*/
 body div#wall div.parent div:last-child div#tag-6 {
   display: none;
 }
